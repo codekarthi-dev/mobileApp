@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "345356504225",
+    "project_id": "cynapse-1ec57",
+    "storage_bucket": "cynapse-1ec57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345356504225:android:0ccadedac0d2a76d3bb4e0",
+        "android_client_info": {
+          "package_name": "com.example.cyn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345356504225-ijvel55fenhnfb6lbts81mcn7fe96bkj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cyn",
+            "certificate_hash": "39e78065e17e59c1d326d12a15a80648d5a00af9"
+          }
+        },
+        {
+          "client_id": "345356504225-9ib5jejo036fnr9hci90o7kvv52nm3fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDTF-nFyCMX2oj5OYV0te2lCDkIbPMrl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345356504225-9ib5jejo036fnr9hci90o7kvv52nm3fb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

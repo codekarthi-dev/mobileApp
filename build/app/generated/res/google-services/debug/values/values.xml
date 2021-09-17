@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">345356504225-9ib5jejo036fnr9hci90o7kvv52nm3fb.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">345356504225</string>
+    <string name="google_api_key" translatable="false">AIzaSyBDTF-nFyCMX2oj5OYV0te2lCDkIbPMrl4</string>
+    <string name="google_app_id" translatable="false">1:345356504225:android:0ccadedac0d2a76d3bb4e0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBDTF-nFyCMX2oj5OYV0te2lCDkIbPMrl4</string>
+    <string name="google_storage_bucket" translatable="false">cynapse-1ec57.appspot.com</string>
+    <string name="project_id" translatable="false">cynapse-1ec57</string>
+</resources>
